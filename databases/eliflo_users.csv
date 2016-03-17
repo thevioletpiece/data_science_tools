@@ -1,4 +1,4 @@
-customerid,datecreated,source,mailinglist,marketingenabled,orgid,invitedby
+customerid,datecreated,source,mailinglist,testgroup,orgid,parentid
 1,1398138810, GUEST_INVITE       ,1,0,11,10803
 2,1384487104, ORG_INVITE         ,0,0,1,316
 3,1363734892, ORG_INVITE         ,0,0,94,1525
